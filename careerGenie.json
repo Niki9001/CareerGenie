@@ -9,8 +9,7 @@
     },
     "api": {
         "type": "openapi",
-        "url": "https://api.yourdomain.com/openapi.yaml"
+        "url": "https://niki9001.github.io/careerGenie.json"
     },
-    "logo_url": "https://api.yourdomain.com/ai-plugin-logo.png",
     "contact_email": "nikizheng90@gmail.com"
 }
